@@ -1,0 +1,8 @@
+cbuckey (master) reflections $ git remote
+cbuckey (master) reflections $ git remote and origin https://github.com/peresjulia/reflections.git
+cbuckey (master) reflections $ git remote
+origin
+cbuckey (master) reflections $ git remote -v
+origin  https://github.com/peresjulia/reflections.git (fecth)
+origin  https://github.com/peresjulia/reflections.git (push)
+cbuckey (master) reflections $ git push origin master
